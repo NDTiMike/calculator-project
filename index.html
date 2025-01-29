@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLS Value Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header with Logo -->
+    <header>
+        <h1>CLS Value Calculator</h1>
+        <img src="your-logo.png" alt="Company Logo" class="top-right-logo">
+    </header>
+
+    <div class="container">
+        <!-- Left Panel (Calculator) -->
+        <div class="calculator-section">
+            <img src="your-logo.png" alt="Company Logo" class="left-logo">
+            <form id="calculator-form">
+                <label for="category">Outcome Category:</label>
+                <select id="category">
+                    <option value="" disabled selected>Select Category</option>
+                </select>
+
+                <label for="detail">Outcome Detail:</label>
+                <select id="detail">
+                    <option value="" disabled selected>Select Detail</option>
+                </select>
+
+                <label for="costDetail">Cost/Saving Detail:</label>
+                <select id="costDetail">
+                    <option value="" disabled selected>Select Cost/Saving Detail</option>
+                </select>
+
+                <label for="multiplier">Multiplier:</label>
+                <input type="number" id="multiplier" min="1" required>
+
+                <!-- Base Costs Display -->
+                <div class="base-costs">
+                    <p id="base-social">Social: £0.00</p>
+                    <p id="base-economic">Economic: £0.00</p>
+                    <p id="base-fiscal">Fiscal: £0.00</p>
+                </div>
+
+                <button type="submit">Calculate</button>
+            </form>
+
+            <!-- Totals Display -->
+            <div class="totals">
+                <p id="social-total">Social Total: £0.00</p>
+                <p id="economic-total">Economic Total: £0.00</p>
+                <p id="fiscal-total">Fiscal Total: £0.00</p>
+                <p id="grand-total">Grand Total: £0.00</p>
+            </div>
+        </div>
+
+        <!-- Right Panel (Table) -->
+        <div class="table-section">
+          <table id="summary-table">
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Detail</th>
+                    <th>Cost/Saving Detail</th>
+                    <th>Social</th>
+                    <th>Economic</th>
+                    <th>Fiscal</th>
+                    <th>Multiplier</th>
+                    <th>Social Total</th>
+                    <th>Economic Total</th>
+                    <th>Fiscal Total</th>
+                    <th>Grand Total</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+            <tfoot>
+                <tr class="totals-row">
+                    <td colspan="7"><strong>Running Totals:</strong></td>
+                    <td id="running-social">£0.00</td>
+                    <td id="running-economic">£0.00</td>
+                    <td id="running-fiscal">£0.00</td>
+                    <td id="running-grand">£0.00</td>
+                    <td></td>
+                </tr>
+            </tfoot>
+            <!-- Copy Button (Place it Below the Table, Above Footer) -->
+<button id="export-button">Copy Table</button>
+        </table>        
+
+    <!-- Footer with License -->
+    <footer>
+        <p>
+            Unless otherwise stated, the values used within the calculator have been taken from the
+            Greater Manchester Combined Authority Unit Cost Database and are here used under 
+            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Licence 4.0</a>.
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

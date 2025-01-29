@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 400px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+  }
+  /* Dropdown styling */
+select {
+  width: 100%; /* Makes the dropdown stretch to fit the container */
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  white-space: normal; /* Allows text wrapping */
+  overflow-wrap: break-word; /* Breaks long words */
+  line-height: 1.5; /* Improves readability */
+  font-size: 16px; /* Adjusts font size */
+  height: auto; /* Allows height to adjust for long text */
+  max-height: 150px; /* Prevents dropdown from being too tall */
+}
+
+/* Adjust container for improved spacing */
+.container {
+  max-width: 400px; /* Increased width for a larger dropdown */
+  margin: 0 auto;
+  padding: 20px;
+}
+/* Center the logo at the top of the screen */
+.logo-container {
+  position: absolute; /* Position the container relative to the screen */
+  top: 20px; /* Set distance from the top of the screen */
+  left: 50%; /* Move horizontally to the middle */
+  transform: translateX(-50%); /* Adjust to perfectly center it */
+  text-align: center; /* Ensure the logo is centered inside the container */
+}
+
+.logo {
+  max-width: 300px; /* Restrict the size of the logo */
+  height: auto; /* Maintain aspect ratio */
+}
+/* Multiplier input box */
+#multiplier {
+  width: 150px; /* Set a specific width for the input box */
+  margin: 0 auto; /* Center it horizontally */
+  display: block; /* Ensure it behaves like a block element for centering */
+  padding: 10px; /* Add some padding for better usability */
+  border: 1px solid #ccc; /* Optional: Add a subtle border */
+  border-radius: 5px; /* Optional: Round the corners */
+  font-size: 16px; /* Adjust the font size for readability */
+}

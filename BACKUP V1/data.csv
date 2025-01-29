@@ -1,0 +1,133 @@
+﻿Description,Value
+"Child taken into care - average fiscal cost across different types of care setting, England, per year",70802.06
+"Child taken into care: low cost, for children with no additional support needs - overall cost, for a specific care scenario",79714.85
+"Child taken into care (low cost, for children with no additional support needs) - cost per care planning process, for a specific care scenario",407.02
+"Child taken into care (low cost, for children with no additional support needs) - weekly cost of maintaining the placement, for a specific care scenario",718.27
+"Child taken into care (low cost, for children with no additional support needs) - cost per review, for a specific care scenario",619.84
+"Child taken into care (low cost, for children with no additional support needs) - weekly legal costs, for a specific care scenario",20.48
+"Child taken into care (low cost, for children with no additional support needs) - cost of transition to leaving care, for a specific care scenario",1766.42
+"Child taken into care: median cost, for children with emotional or behavioural difficulties - overall cost, for a specific care scenario",87815.36
+"Child taken into care (median cost, for children with emotional or behavioural difficulties) - cost per care planning process, for a specific care scenario",407.02
+"Child taken into care (median cost, for children with emotional or behavioural difficulties) - weekly cost of maintaining the placement, for a specific care scenario",658.42
+"Child taken into care (median cost, for children with emotional or behavioural difficulties) - cost per review, for a specific care scenario",691.67
+"Child taken into care (median cost, for children with emotional or behavioural difficulties) - weekly legal costs, for a specific care scenario",24.87
+"Child taken into care (median cost, for children with emotional or behavioural difficulties) - cost of finding subsequent placement, for a specific care scenario",311.25
+"Child taken into care: high cost, for children with emotional or behavioural difficulties and offending behaviour - overall cost, for a specific care scenario",486833.89
+"Child taken into care (high cost, for children with emotional or behavioural difficulties and offending behaviour) - cost per care planning process, for a specific care scenario",400.37
+"Child taken into care (high cost, for children with emotional or behavioural difficulties and offending behaviour) - total cost of maintaining the placement, for a specific care scenario",362111.34
+"Child taken into care (high cost, for children with emotional or behavioural difficulties and offending behaviour) - cost per review, for a specific care scenario",2380.94
+"Child taken into care (high cost, for children with emotional or behavioural difficulties and offending behaviour) - cost of finding subsequent placement, for a specific care scenario",1312.25
+"Child taken into care (high cost, for children with emotional or behavioural difficulties and offending behaviour) - costs of ceasing being looked after, for a specific care scenario",400.37
+"Child taken into care: very high cost, for children with disabilities, emotional or behavioural difficulties, and offending behaviour - overall cost, for a specific care scenario",727103.74
+"Child taken into care (very high cost, for children with disabilities, emotional or behavioural difficulties, and offending behaviour) - cost per care planning process, for a specific care scenario",316.57
+"Child taken into care (very high cost, for children with disabilities, emotional or behavioural difficulties, and offending behaviour) - total cost of maintaining the placement, for a specific care scenario",680823.10
+"Child taken into care (very high cost, for children with disabilities, emotional or behavioural difficulties, and offending behaviour) - cost per review, for a specific care scenario",1769.08
+"Child taken into care (very high cost, for children with disabilities, emotional or behavioural difficulties, and offending behaviour) - cost of finding subsequent placements, for a specific care scenario",3158.73
+"Child taken into care (very high cost, for children with disabilities, emotional or behavioural difficulties, and offending behaviour) - weekly legal costs, for a specific care scenario",12.90
+"Child taken into care (very high cost, for children with disabilities, emotional or behavioural difficulties, and offending behaviour) - cost of transition to leaving care, for a specific care scenario",1766.42
+"Child into local authority foster care: overall cost (cost per week)
+Note: excluding social care support directly related to fostered children (see SS2.0.3), but including additional services including education (SS2.0.2)",710.12
+"Child into local authority foster care (cost per week): boarding out allowances, administration and the cost of social worker / staff support to foster carers",695.08
+"Child into local authority foster care (cost per week): other services, including education",15.04
+Child into local authority foster care (cost per week): social services (including cost of social worker and support relating directly to the fostered child),292.57
+Cost per session of basic core training for foster carers and their families,60.52
+Local authority own-provision residential care home for children - cost per week,5434.91
+Voluntary and private sector residential care home for children - cost per week,4667.85
+Application for Child Protection Section 31 Care Order: overall cost,37422.51
+Application for Child Protection Section 31 Care Order: legal aid costs,22453.50
+Application for Child Protection Section 31 Care Order: local authority costs,9355.63
+Application for Child Protection Section 31 Care Order: court costs,1871.13
+Application for Child Protection Section 31 Care Order: Children and Family Court Advisory and Support Service (CAFCASS) costs,3742.25
+Children in Need - average total cost of case management processes over a six month period (standard cost),1944.97
+"Children in Need, case management processes - average cost of initial contact and referral (standard cost)",255.48
+"Children in Need, case management processes - average cost of initial assessment / single assessment (standard cost)",372.24
+"Children in Need, case management processes - average cost of ongoing support, per month (all children)",256.33
+"Children in Need, case management processes - average cost of ongoing support, per month (no additional needs)",145.98
+"Children in Need, case management processes - average cost of ongoing support, per month (under six)",262.99
+"Child Protection Plan, case management processes - average cost of ongoing support, per month (all children)",360.88
+"Child Protection Plan, case management processes - average cost of ongoing support, per month (under six)",561.20
+"Children in Need, case management processes - average cost of ongoing support, per month (emotional or behavioural difficulties)",272.44
+"Children in Need, case management processes - average cost of ongoing support, per month (emotional or behavioural difficulties and one other factor)",684.06
+"Children in Need, case management processes - average cost of closing a case (standard cost)",267.84
+"Children in Need, case management processes - average cost of core assessment (standard cost)",803.53
+"Children in Need, case management processes - average cost of Child in Need plan review (standard cost)",304.93
+"Children in Need, case management processes - average cost of Section 47 enquiry (standard cost)",701.89
+"Children in Need, case management processes - average cost of Public Law Outline (standard cost)",3074.03
+Children's Social Care - single assessment,855.28
+"Residential care for older people - average gross weekly expenditure per person, England",527.15
+Local authority own-provision residential care for older people - overall cost per week,1042.08
+Local authority own-provision residential care for older people - cost of buildings and on-costs per week,128.92
+Local authority own-provision residential care for older people - land costs,30.08
+Local authority own-provision residential care for older people - revenue costs per week,883.08
+"Average gross weekly expenditure on supporting older adults (65+) with a physical support need in residential care, England",514.60
+"Average gross weekly expenditure on supporting older adults (65+) with a physical support need in nursing care, England",554.84
+"Average gross weekly expenditure on supporting adults (18-64) with a physical support need in residential care, England",818.76
+"Average gross weekly expenditure on supporting adults (18-64) with a physical support need in nursing care, England",716.30
+"Average gross weekly expenditure on supporting older adults (65+) with a sensory support need in residential care, England",508.52
+"Average gross weekly expenditure on supporting older adults (65+) with a sensory support need in nursing care, England",557.74
+"Average gross weekly expenditure on supporting adults (18-64) with a sensory support need in residential care, England",879.18
+"Average gross weekly expenditure on supporting adults (18-64) with a sensory support need in nursing care, England",506.66
+"Average gross weekly expenditure on supporting older adults (65+) with a memory or cognition support need in residential care, England",510.18
+"Average gross weekly expenditure on supporting older adults (65+) with a memory or cognition support need in nursing care, England",577.37
+"Average gross weekly expenditure on supporting adults (18-64) with a memory or cognition support need in residential care, England",659.44
+"Average gross weekly expenditure on supporting adults (18-64) with a memory or cognition support need in nursing care, England",792.57
+"Average gross weekly expenditure on supporting older adults (65+) with a learning disability in residential care, England",806.57
+"Average gross weekly expenditure on supporting older adults (65+) with a learning disability in nursing care, England",654.45
+"Average gross weekly expenditure on supporting adults (18-64) with a learning disability in residential care, England",1208.24
+"Average gross weekly expenditure on supporting adults (18-64) with a learning disability in nursing care, England",1035.79
+"Average gross weekly expenditure on supporting older adults (65+) with a mental health support need in residential care, England",489.92
+"Average gross weekly expenditure on supporting older adults (65+) with a mental health support need in nursing care, England",576.24
+"Average gross weekly expenditure on supporting adults (18-64) with a mental health support need in residential care, England",710.37
+"Average gross weekly expenditure on supporting adults (18-64) with a mental health support need in nursing care, England",733.26
+Nursing care for older people - average gross weekly expenditure per person,781.60
+"Nursing care for older people - average gross weekly expenditure per person, local authority care costs",563.39
+"Nursing care for older people - average gross weekly expenditure per person, standard NHS nursing care contribution",218.20
+Care homes for adults (18-64) requiring long-term mental health support  - average cost per week,1020.59
+"Intermediate care, bed based - average direct cost per service user",7198.18
+"Intermediate care, crisis response - average direct cost per service user assessed",954.53
+"Intermediate care, home based - average direct cost per service user",1185.01
+"Intermediate care, reablement - average direct cost per service user",2415.88
+Reablement service - average cost per service user for 'functional' reablement,1756.49
+"Average weekly cost of home care received from local authority in-house provision, England",164.04
+"Average hourly cost of home care received from local authority in-house provision, England",23.10
+"Average hourly cost of home care received from external providers,  England",13.21
+Community social care support package for older people per week,363.23
+Community social care support package for people with learning disabilities per week,415.12
+Community social care support package for people with mental health problems per week,573.20
+Community social care support package for people with physical disabilities per week,907.46
+Meals on wheels (average cost per week),38.51
+"Stair lift, straight (mean cost)",2565.08
+Ramp to front/back door (mean total cost),420.69
+"Handrail, external (mean total cost)",55.71
+Hoist (median total cost),3473.71
+Low level bath (median total cost),885.79
+NHS wheelchair (powered) - cost per year,516.74
+NHS wheelchair (active user) - cost per year,224.53
+NHS wheelchair (self- or attendant-propelled) - cost per year,110.65
+Local authority own-provision day care for older people - cost per session,35.81
+Local authority social services day care for adults (18-64) requiring mental health support - average cost per client attendance,41.90
+"Average gross weekly cost of day care or day services for older people, England",115.19
+"Average gross weekly cost of day care or day services for adults and older people, England",189.69
+Private and voluntary sector day care for adults (18-64) requiring mental health support - average cost per client attendance,40.82
+Parenting Programme - median cost of delivering a group-based parenting programme (per participant),1307.63
+Parenting Programme - median cost of delivering an individually-based parenting programme (per participant),2854.26
+"Parenting Programme - Incredible Years: total cost per child (eight parents per group, excluding set-up costs)",2346.86
+"Total savings from the delivery of parenting programmes for parents of children aged five with conduct disorder, per child over a 25 year period (to age 30)",4626.16
+"Fiscal savings to the criminal justice system from the delivery of parenting programmes for parents of children aged five with conduct disorder, per child over a 25 year period (to age 30)",2181.22
+"Fiscal savings to the NHS from the delivery of parenting programmes for parents of children aged five with conduct disorder, per child over a 25 year period (to age 30)",1755.41
+"Fiscal savings to the education sector from the delivery of parenting programmes for parents of children aged five with conduct disorder, per child over a 25 year period (to age 30)",600.25
+"Fiscal savings to social services from the delivery of parenting programmes for parents of children aged five with conduct disorder, per child over a 25 year period (to age 30)",92.03
+"Total fiscal and economic savings from the delivery of school-based emotional learning programmes, per child over a 10 year period",4335.52
+"Fiscal savings to the criminal justice system from the delivery of school-based emotional learning programmes, per child over a 10 year period",2500.43
+"Fiscal savings to the NHS from the delivery of school-based emotional learning programmes, per child over a 10 year period",1552.46
+"Fiscal savings to the education sector from the delivery of school-based emotional learning programmes, per child over a 10 year period",251.53
+"Fiscal savings to social services from the delivery of school-based emotional learning programmes, per child over a 10 year period",31.10
+Multi-Systemic Therapy (MST) - cost per therapy session,147.10
+Social worker - adult services: cost per hour (excluding qualification costs),49.42
+Social worker - children's services: cost per hour (excluding qualification costs),49.42
+Social work team leader / senior practitioner / senior social worker: cost per hour (excluding qualification costs),65.16
+Social Work Assistant - cost per hour,37.60
+Local Authority Home Care Worker - cost per hour of face-to-face contact,34.38
+Local Authority Community Occupational Therapist - cost per hour (excluding qualification costs),50.49
+Family Support Worker - cost per hour,38.62
+Wellbeing by 1 point, 14700

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSV Data Calculator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Logo Section -->
+  <div class="logo-container">
+    <img src="logo.png" alt="Company Logo" class="logo">
+  </div>
+
+  <!-- Main Calculator Container -->
+  <div class="container">
+    <h1>CLS Data Calculator</h1>
+    <p>Select an incident and enter a multiplier to calculate:</p>
+
+    <form id="calculator-form">
+      <div>
+        <label for="description">Incident:</label>
+        <select id="description">
+          <option value="" disabled selected>Select an option</option>
+        </select>
+      </div>
+      <div>
+        <label for="multiplier">Multiplier:</label>
+        <input type="number" id="multiplier" placeholder="Enter a number of units" required>
+      </div>
+      <button type="submit">Calculate</button>
+    </form>
+
+    <h2 id="selected-value"></h2>
+    <h2 id="result">Result: £0.00</h2>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
